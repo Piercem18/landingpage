@@ -1,0 +1,115 @@
+.parttwo{
+    background-color: #1f2937;
+    color:white;
+    display:flex;
+    align-items: center;
+}
+
+.Headerlinks{
+    color:white;
+    display:flex;
+    flex-direction: row;
+    align-items:flex-end;
+}
+
+
+.headerright{
+    display:flex;
+    justify-content: space-around;
+    gap:50px;
+    padding-right: 50px;
+
+}
+.Headerlogo{
+    color:white;
+    font-weight: bold;
+    margin-right: auto;
+}
+.navbar{
+    display: flex;
+    padding:20px 0px 20px 100px;
+    align-items:center;
+    background-color: #1f2937;
+
+}
+.subtext, .signup1, .title{
+    color:white;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 100px;
+    flex-wrap: wrap;
+}
+.mainimage{
+    padding:70px;
+   
+}
+button{
+    background-color:#3882F6 ;
+    color:white;
+    padding:10px;
+    border-color: white;
+    border-radius:12px;
+    width:100px;
+}
+ 
+.container{
+    display:flex;
+    flex-direction:column;
+
+}
+.threethings{
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+   
+}
+
+.partthree{
+    text-align:center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.row, img{
+    margin: 5px 20px 0px 20px;
+    border-radius:15px;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'roboto', arial;
+}
+.full-quote{
+    background-color: #E5E7EB;
+    padding:20px;
+}
+.signature{
+    text-align: right;
+    font-weight: bold;
+}
+.fourthfourth{
+    display:flex;
+    margin: 50px 200px;
+    background-color: #3882F6;
+    padding:10px 80px;
+    align-items:center;
+    border-radius:5px;
+}
+.words{
+    text-align: left;
+    color:white;
+}
+.secondsignup{
+    display: flex;
+    flex:1;
+    text-align:center;
+    margin-right:0px;
+}
+footer{
+    background-color: #1F2937;
+    text-align: center;
+    color:white;
+    padding:5px;
+}
